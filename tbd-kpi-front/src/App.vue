@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import TableauDeBord from './components/TableauDeBord.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <TableauDeBord />
 </template>
